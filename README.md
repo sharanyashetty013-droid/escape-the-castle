@@ -32,7 +32,7 @@ The gate seals behind you. Six locks stand between you and the way out, and ever
 
 ## Built with
 
-React, React Three Fiber and Three.js, GLSL shaders, Zustand, Howler.js and Vite. Deployed on Vercel.
+React, React Three Fiber and Three.js, GLSL shaders,Zustand, Howler.js and Vite. Deployed on Vercel.
 
 ```bash
 npm install
